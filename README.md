@@ -16,4 +16,4 @@ A clean and modern login page built using HTML, CSS, and JavaScript.
 ![Preview](preview.png)
 
 ## 🚀 Live Demo
-(Add link here after deployment)
+https://pagidijyothsna.github.io/login-ui/
