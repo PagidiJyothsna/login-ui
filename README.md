@@ -13,7 +13,7 @@ A clean and modern login page built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Preview
-(Add screenshot here)
+![Preview](preview.png)
 
 ## 🚀 Live Demo
 (Add link here after deployment)
